@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.pdf
+*.mp4
+*.png
+*.Rproj
+opal_in_outs.R
+opal_in_outs_3D.R
+data
